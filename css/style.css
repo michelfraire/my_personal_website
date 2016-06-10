@@ -1,0 +1,32 @@
+body {
+	font-family: Arial;
+	text-align: justify;	
+	padding: 20px;
+}
+
+.section {
+	margin: 15px;
+	max-width: 500px;
+	float: left;
+	width: auto;
+}
+.header {
+	background-color: #00BCD4;
+	 text-align: center;
+	 border-radius: 25px;
+}
+.header h1 {
+	color:yellow;
+	font-size: 60px;
+
+}
+
+.minidiv {
+  background-color: #00BCD4;
+  position: relative;
+  display: inline-block;
+  border-radius: 25px;
+}
+
+
+
